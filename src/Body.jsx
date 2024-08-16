@@ -42,6 +42,7 @@ function BodyApp() {
         <div> <div><Link><button  className='buttonarrow'>Peelamedu<IoIosArrowForward style={{marginLeft:180}}/></button></Link>
         <Link><button  className='buttonarrow1'>Rs Puram<IoIosArrowForward style={{marginLeft:180}}/> </button></Link>
         <Link><button  className='buttonarrow2'>Race Course<IoIosArrowForward style={{marginLeft:180}}/></button></Link></div>
+        
         <div><Link><button  className='buttonarrow'>Saibaba Col<IoIosArrowForward style={{marginLeft:180}}/></button></Link>
         <Link><button  className='buttonarrow1'>Gandhipuram<IoIosArrowForward style={{marginLeft:180}}/></button></Link>
         <Link><button  className='buttonarrow2'>Town Hall<IoIosArrowForward style={{marginLeft:180}}/></button></Link></div>
