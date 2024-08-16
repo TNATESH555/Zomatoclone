@@ -1,0 +1,313 @@
+.nav{
+  background-color:rgb(245, 113, 113);
+  height: 420px;
+}
+
+.zomatoLogo{
+  height: 150px;
+  height: 420px;
+  width: 1350px;
+  z-index: -2px;
+}
+
+.handSvg{
+  margin-top: -400px;
+  margin-left: 60px;
+  
+}
+.getApp{
+  margin-left: 80px;
+  margin-top: -17px;
+  color: white;
+  
+}
+
+.headerInfo{
+  display:inline-flex;
+  text-decoration: none;
+  color: white;
+  font-size: large;
+  margin-left: 680px;
+  justify-content:space-evenly;
+  margin-top: -180px;
+  position: relative;
+  top: -18px;
+  padding: 50px;
+}
+
+.zomatofont{
+  height: 60px;
+  width: 275px;
+  margin-left: 520px;
+  margin-top: -40px;
+}
+
+.navinfo{
+  color: white;
+  margin-left: 350px;
+  margin-top: 25px;
+  justify-content: space-between;
+  font-size: xx-large;
+}
+
+
+.locationicon{
+  height:25px ;
+  width: 15px;
+position: relative;
+left: 30px;
+top: 5px;
+}
+
+.barsearch{
+  background-color: white;
+  position: relative;
+  width: 650px;
+  margin-left: 330px;
+  height: 45px;
+  border-radius: 10px;
+ top: 10px;
+}
+
+.searchbar{
+  margin-left: 249px;
+ position: relative;
+bottom: 82px;
+ width: 400px;
+  height: 44px;
+  border-radius: 10px;
+  border-style: none;
+}
+
+.locationaddress{
+margin-left: 55px;
+margin-top: -18px;
+
+}
+
+.ArrowDropDown{
+ margin-left: 180px;
+ position: relative;
+ bottom: 45px;
+}
+
+
+.ciSearch{
+  position: relative;
+  bottom: 45px;
+  right: 7px;
+}
+.Verticalline{
+  position: relative;
+  bottom: 50px;
+  margin-left: -10px;
+}
+
+.AppBody{
+  margin-top: 20px;
+  background-color: rgb(252, 253, 253);
+  height: 250px;
+}
+
+.bodydiv1{
+background-color: rgb(255, 255, 255);
+height: 190px;
+width:500px;
+margin-left: 150px;
+border-radius: 10px;
+ 
+}
+
+
+.bodydiv1:hover{
+  transform: scale(1.1);
+ z-index: 3;
+}
+
+.bodydiv2:hover{
+  transform: scale(1.1);
+  z-index: 3;
+  } 
+
+.bodydiv2{
+  background-color: rgb(255, 255, 255);
+  width: 500px;
+  margin-left: 665px;
+  position: relative;
+  bottom: 190px;
+ border-radius: 10px;
+ 
+}
+
+.bodydiv1text{
+  margin-Top:-30;height:50;background-color: white;position: relative;bottom: 80px;
+  width: 500px;
+}
+
+.curatedItems{
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top:-255px;
+}
+.trends{
+  margin-left: 752px;
+  color: red;
+  margin-top: -35px;
+}
+.bodyimgbox1{
+  background-color: rgb(255, 255, 255);
+  height: 300px;
+  width: 240px;
+  border-radius: 10px;
+  margin-left: 15px;
+}
+
+.bodyimgbox2{
+  background-color: rgb(255, 255, 255);
+  height: 300px;
+  width: 240px;
+  border-radius: 10px;
+  margin-left: 15px;
+}
+
+.bodyimgbox3{
+  background-color: rgb(255, 255, 255);
+  height: 300px;
+  width: 240px;
+  border-radius: 10px;
+  margin-left: 15px;
+}
+
+.bodyimgbox4{
+  background-color: rgb(255, 255, 255);
+  height: 300px;
+  width: 240px;
+  border-radius: 10px;
+  margin-left: 15px;
+}
+
+.boxdiv{
+  display: inline-flex
+}
+
+.buttons{
+  text-decoration: none;
+  border-style: none;
+  margin-left: 60px;
+margin-top: 20px;
+
+}
+.buttonsdiv{
+  margin-left: 130px;
+}
+
+
+.buttonarrow{
+  margin-left: 170px;
+  height: 60px;
+  width: 300px;
+  margin-top: 15px;
+  border-radius: 5px;
+  border-style: none;
+  border: 1px solid slategrey;
+}
+
+.buttonarrow1{
+  margin-left: 10px;
+  height: 60px;
+  width: 300px;
+  margin-top: 15px;
+  border-radius: 5px;
+  border: 1px solid slategrey;
+}
+
+
+.buttonarrow2{
+  margin-left: 10px;
+  margin-top: 15px;
+  height: 60px;
+  width: 300px;
+  border-radius: 5px;
+  border: 1px solid slategrey;
+}
+
+.mobileapp{
+  margin-top:150px;
+  margin-left: 250px;
+  height: 250px;
+  width: 250px;
+}
+
+.appinfo{
+  margin-left: 600px;
+  margin-top: -310px;
+}
+
+.footer{
+ position: relative;
+ top: 1640px;
+ height: 300px;
+ background-color: rgb(248, 248, 248);
+ padding-bottom: 50px;
+}
+
+.footertoplogo{
+height: 30px;
+margin-left: 20px;
+}
+
+.footersec{
+  height: 350px;
+  width: 250px;
+  background-color: rgb(255, 255, 255);
+  margin-left: 10px;
+  margin-top: 50px;
+  text-decoration: none;
+}
+
+.footersec1{
+  height: 350px;
+  width: 250px;
+  background-color: rgb(255, 255, 255);
+  margin-top: 50px;
+  margin-left: 10px;
+}
+
+.footersec2{
+  height: 350px;
+  width: 250px;
+  background-color: rgb(255, 255, 255);
+  margin-top: 50px;
+  margin-left: 10px;
+}
+
+.footersec3{
+  height: 350px;
+  width: 250px;
+  background-color: rgb(255, 255, 255);
+  margin-top: 50px;
+  margin-left: 10px;
+}
+
+.footersec4{
+  height: 350px;
+  width: 250px;
+  background-color: rgb(255, 255, 255);
+  margin-top: 50px;
+  margin-left: 10px;
+}
+
+.combinedfootersec{
+  display: inline-flex;
+  margin-left: 20px;
+}
+
+.footerbutton{
+  margin-left: 1100px;
+  margin-top: -30px;
+}
+
+.undotext{
+  text-decoration: none;
+  color:rgb(58, 57, 57);
+}
