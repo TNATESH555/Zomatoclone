@@ -2,6 +2,7 @@ import React from 'react'
 import { BrowserRouter as Router, Route, Link, Routes } from 'react-router-dom';
 import Nav from './Nav';
 import BodyApp from './body';
+
 import Footer from './Footer';
 
 

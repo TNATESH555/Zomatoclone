@@ -26,7 +26,7 @@ function Footer() {
  <Link className='undotext'>Who We Are</Link> <br /><br />
  <Link className='undotext'>Blog</Link> <br /> <br />
  <Link className='undotext'>Work With Us</Link><br /> <br />
- <Link className='undotext'>Investor Relations</Link><br />
+ <Link className='undotext'>Investor Relations</Link><br /> <br />
  <Link className='undotext'>Report Fraud</Link> <br /> <br />
  <Link className='undotext'>Press Kit</Link><br /><br />
  <Link className='undotext'>Contact Us</Link>
